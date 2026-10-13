@@ -66,6 +66,6 @@ terraform apply
 
 ---
 
-## 📄 Licencia
+## Arquitectura
 
-Este proyecto se distribuye bajo la licencia MIT. Siéntete libre de utilizarlo, modificarlo y adaptarlo a tus necesidades.
+![Arquitectura](arquitectura_pipeline.jfif)
