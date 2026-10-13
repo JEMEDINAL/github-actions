@@ -68,4 +68,4 @@ terraform apply
 
 ## Arquitectura
 
-![Arquitectura](aquitectura_pipeline.jfif)
+![Arquitectura](arquitectura_pipeline.jfif)
